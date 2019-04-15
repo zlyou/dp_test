@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="383fbff2-b90a-44b5-8bf7-38ba55f0fe1d" name="Default" comment="" />
+    <list default="true" id="383fbff2-b90a-44b5-8bf7-38ba55f0fe1d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/mybatis-generator-gui-extension-master/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +45,16 @@
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
@@ -58,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybatis-generator-gui-extension-master/src/main/java/com/spawpaw/mybatis/generator/gui/GeneratorGuiRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -67,7 +80,14 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mybatis-generator-gui-extension" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis-generator-gui-extension-master/src/main/java/com/spawpaw/mybatis/generator/gui/GeneratorGuiRunner.java" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -120,121 +140,6 @@
               <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
               <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="i18n" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nixianggongcheng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nixianggongcheng" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis-generator-gui-extension-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -245,7 +150,7 @@
     <property name="SearchEverywhereHistoryKey" value="peizhi&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555291305182" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555292751863" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -332,17 +237,17 @@
       <workItem from="1553173763092" duration="613000" />
       <workItem from="1553323063348" duration="1262000" />
       <workItem from="1553329263246" duration="598000" />
-      <workItem from="1555290966247" duration="275000" />
+      <workItem from="1555290966247" duration="931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12197000" />
+    <option name="totallyTimeSpent" value="12853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="23" width="1272" height="709" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20243903" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2902439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -466,8 +371,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-generator-gui-extension-master/src/main/java/com/spawpaw/mybatis/generator/gui/GeneratorGuiRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
