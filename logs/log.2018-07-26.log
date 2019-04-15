@@ -1,0 +1,523 @@
+2018-07-26 10:56:34.613 [JavaFX Application Thread] INFO  DatabaseConfig.java->getConnection, line69: using connection url:jdbc:mysql://192.168.0.112:3306/db_blc_paas?useUnicode=true&useSSL=false&characterEncoding=utf8
+2018-07-26 11:05:16.065 [JavaFX Application Thread] INFO  DatabaseConfig.java->getConnection, line69: using connection url:jdbc:mysql://192.168.0.112:3306/db_blc_paas?useUnicode=true&useSSL=false&characterEncoding=utf8
+2018-07-26 11:05:24.642 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:projectDir,值：H:\blc\paas-iot\drools-engine,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.642 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:basePackage,值：com.blc.drools.model,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.643 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperDir,值：src/main/resources/,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.643 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.643 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.643 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.643 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoObjName,值：BlcPaasIotUserMapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.644 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteColumn,值：IS_DELETE,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:05:24.644 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteValue,值：1,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:05:24.644 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteValue,值：0,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:05:24.644 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteConstName,值：DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:05:24.644 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteConstName,值：NOT_DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:05:24.644 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.645 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityPackage,值：com.blc.drools.model,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.645 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityObjName,值：BlcPaasIotUser,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.645 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleSearchString,值：[a-zA-Z0-9$]+$,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:searchString
+2018-07-26 11:05:24.645 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.645 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:replaceString
+2018-07-26 11:05:24.648 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:primaryKey,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.648 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableVirtualPrimaryKeyPlugin,值：,,plugin:org.mybatis.generator.plugins.VirtualPrimaryKeyPlugin   key:virtualKeyColumns
+2018-07-26 11:05:24.648 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:generateJPA,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:05:24.648 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useToStringFromRoot,值：false,,plugin:org.mybatis.generator.plugins.ToStringPlugin   key:useToStringFromRoot
+2018-07-26 11:05:24.649 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useEqualsHashCodeFromRoot,值：false,,plugin:org.mybatis.generator.plugins.EqualsHashCodePlugin   key:useEqualsHashCodeFromRoot
+2018-07-26 11:05:24.649 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableComment,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:05:24.649 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableMbgGenerated,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:05:24.649 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableCorrespondingTable,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:05:24.649 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:fileHeader,值：/**
+ * Created By MBG-GUI-EXTENSION https://github.com/spawpaw/mybatis-generator-gui-extension
+ * Description:
+ * ${tableComment}
+ *
+ * @author 
+ */,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:05:24.649 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_eviction,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:05:24.649 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_flushInterval,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:05:24.650 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_readOnly,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:05:24.650 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_size,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:05:24.650 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_type,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:05:24.650 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:scvxConfigYml,值：# 每项配置有以下四个属性：
+# template:    模板文件名
+# destDir:     目标文件夹
+# destPackage: 目标包
+# destFileName:目标文件名
+#
+# 支持如下变量：
+# ${basePackage}  在创建文件时该变量将替换为根包名
+# ${entityName}   在创建文件时该变量将替换为实体名
+templateConfig:
+
+  # REST-ful Controller
+  - template: java/restController.vm
+    destDir: src/main/java
+    destPackage: ${basePackage}.controller
+    destFileName: ${entityName}RestController.java
+
+  # 生成html表单
+  - template: html/index.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: index.html
+
+  # 生成html列表
+  - template: html/list.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: list.html
+,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:05:24.652 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.FluentBuilderMethodsPlugin
+2018-07-26 11:05:24.653 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.MapperAnnotationPlugin
+2018-07-26 11:05:24.653 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.ToStringPlugin
+2018-07-26 11:05:24.654 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.SerializablePlugin
+2018-07-26 11:05:24.654 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.CaseInsensitiveLikePlugin
+2018-07-26 11:05:24.654 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.EqualsHashCodePlugin
+2018-07-26 11:05:24.654 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.RenameExampleClassPlugin
+2018-07-26 11:10:16.098 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:projectDir,值：H:\blc\paas-iot\drools-engine,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.098 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:basePackage,值：com.blc.drools.model,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.098 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperDir,值：src/main/resources/,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.098 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.098 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.099 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.099 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoObjName,值：BlcPaasIotUserMapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.099 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteColumn,值：IS_DELETE,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:10:16.099 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteValue,值：1,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:10:16.099 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteValue,值：0,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:10:16.099 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteConstName,值：DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:10:16.100 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteConstName,值：NOT_DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 11:10:16.100 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.100 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityPackage,值：com.blc.drools.model.fact,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.100 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityObjName,值：User,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.100 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleSearchString,值：[a-zA-Z0-9$]+$,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:searchString
+2018-07-26 11:10:16.100 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.101 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:replaceString
+2018-07-26 11:10:16.101 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:primaryKey,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.101 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableVirtualPrimaryKeyPlugin,值：,,plugin:org.mybatis.generator.plugins.VirtualPrimaryKeyPlugin   key:virtualKeyColumns
+2018-07-26 11:10:16.101 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:generateJPA,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:10:16.101 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useToStringFromRoot,值：false,,plugin:org.mybatis.generator.plugins.ToStringPlugin   key:useToStringFromRoot
+2018-07-26 11:10:16.101 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useEqualsHashCodeFromRoot,值：false,,plugin:org.mybatis.generator.plugins.EqualsHashCodePlugin   key:useEqualsHashCodeFromRoot
+2018-07-26 11:10:16.102 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableComment,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:10:16.102 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableMbgGenerated,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:10:16.102 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableCorrespondingTable,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:10:16.102 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:fileHeader,值：/**
+ * Created By MBG-GUI-EXTENSION https://github.com/spawpaw/mybatis-generator-gui-extension
+ * Description:
+ * ${tableComment}
+ *
+ * @author 
+ */,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 11:10:16.102 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_eviction,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:10:16.102 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_flushInterval,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:10:16.102 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_readOnly,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:10:16.103 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_size,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:10:16.103 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_type,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 11:10:16.103 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:scvxConfigYml,值：# 每项配置有以下四个属性：
+# template:    模板文件名
+# destDir:     目标文件夹
+# destPackage: 目标包
+# destFileName:目标文件名
+#
+# 支持如下变量：
+# ${basePackage}  在创建文件时该变量将替换为根包名
+# ${entityName}   在创建文件时该变量将替换为实体名
+templateConfig:
+
+  # REST-ful Controller
+  - template: java/restController.vm
+    destDir: src/main/java
+    destPackage: ${basePackage}.controller
+    destFileName: ${entityName}RestController.java
+
+  # 生成html表单
+  - template: html/index.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: index.html
+
+  # 生成html列表
+  - template: html/list.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: list.html
+,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 11:10:16.103 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.FluentBuilderMethodsPlugin
+2018-07-26 11:10:16.103 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.MapperAnnotationPlugin
+2018-07-26 11:10:16.103 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.ToStringPlugin
+2018-07-26 11:10:16.103 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.SerializablePlugin
+2018-07-26 11:10:16.104 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.CaseInsensitiveLikePlugin
+2018-07-26 11:10:16.104 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.EqualsHashCodePlugin
+2018-07-26 11:10:16.104 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.RenameExampleClassPlugin
+2018-07-26 14:45:00.092 [JavaFX Application Thread] INFO  DatabaseConfig.java->getConnection, line69: using connection url:jdbc:mysql://192.168.0.112:3306/db_blc_paas?useUnicode=true&useSSL=false&characterEncoding=utf8
+2018-07-26 14:45:04.436 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:projectDir,值：H:\blc\paas-iot\drools-engine,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.436 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:basePackage,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.437 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperDir,值：src/main/resources,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.437 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperPackage,值：mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.437 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.437 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoPackage,值：com.blc.drools.model,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.437 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoObjName,值：BlcPaasIotUserMapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.437 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteColumn,值：IS_DELETE,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:45:04.438 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteValue,值：1,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:45:04.438 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteValue,值：0,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:45:04.438 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteConstName,值：DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:45:04.438 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteConstName,值：NOT_DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:45:04.438 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.438 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityPackage,值：.entity,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.439 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityObjName,值：BlcPaasIotUser,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.439 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleSearchString,值：[a-zA-Z0-9$]+$,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:searchString
+2018-07-26 14:45:04.439 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.439 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:replaceString
+2018-07-26 14:45:04.440 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:primaryKey,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.440 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableVirtualPrimaryKeyPlugin,值：,,plugin:org.mybatis.generator.plugins.VirtualPrimaryKeyPlugin   key:virtualKeyColumns
+2018-07-26 14:45:04.440 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:generateJPA,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:45:04.440 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useToStringFromRoot,值：false,,plugin:org.mybatis.generator.plugins.ToStringPlugin   key:useToStringFromRoot
+2018-07-26 14:45:04.440 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useEqualsHashCodeFromRoot,值：false,,plugin:org.mybatis.generator.plugins.EqualsHashCodePlugin   key:useEqualsHashCodeFromRoot
+2018-07-26 14:45:04.441 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableComment,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:45:04.441 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableMbgGenerated,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:45:04.441 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableCorrespondingTable,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:45:04.441 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:fileHeader,值：/**
+ * Created By MBG-GUI-EXTENSION https://github.com/spawpaw/mybatis-generator-gui-extension
+ * Description:
+ * ${tableComment}
+ *
+ * @author 
+ */,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:45:04.441 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_eviction,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:45:04.441 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_flushInterval,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:45:04.441 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_readOnly,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:45:04.442 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_size,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:45:04.442 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_type,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:45:04.442 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:scvxConfigYml,值：# 每项配置有以下四个属性：
+# template:    模板文件名
+# destDir:     目标文件夹
+# destPackage: 目标包
+# destFileName:目标文件名
+#
+# 支持如下变量：
+# ${basePackage}  在创建文件时该变量将替换为根包名
+# ${entityName}   在创建文件时该变量将替换为实体名
+templateConfig:
+
+  # REST-ful Controller
+  - template: java/restController.vm
+    destDir: src/main/java
+    destPackage: ${basePackage}.controller
+    destFileName: ${entityName}RestController.java
+
+  # 生成html表单
+  - template: html/index.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: index.html
+
+  # 生成html列表
+  - template: html/list.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: list.html
+,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:45:04.442 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.FluentBuilderMethodsPlugin
+2018-07-26 14:45:04.443 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.MapperAnnotationPlugin
+2018-07-26 14:45:04.443 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.ToStringPlugin
+2018-07-26 14:45:04.443 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.SerializablePlugin
+2018-07-26 14:45:04.443 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.CaseInsensitiveLikePlugin
+2018-07-26 14:45:04.443 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.EqualsHashCodePlugin
+2018-07-26 14:45:04.443 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.RenameExampleClassPlugin
+2018-07-26 14:50:51.270 [JavaFX Application Thread] INFO  DatabaseConfig.java->getConnection, line69: using connection url:jdbc:mysql://192.168.0.112:3306/db_blc_paas?useUnicode=true&useSSL=false&characterEncoding=utf8
+2018-07-26 14:51:03.041 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:projectDir,值：H:\blc\paas-iot\drools-engine,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.041 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:basePackage,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.042 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperDir,值：src/main/resources,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.042 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.042 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.042 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoPackage,值：com.blc.drools.model,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.042 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoObjName,值：BlcPaasIotUserMapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.043 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteColumn,值：IS_DELETE,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:51:03.043 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteValue,值：1,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:51:03.043 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteValue,值：0,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:51:03.043 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteConstName,值：DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:51:03.043 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteConstName,值：NOT_DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 14:51:03.043 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.043 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityPackage,值：com.blc.drools.model.fact,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.044 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityObjName,值：BlcPaasIotUser,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.044 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleSearchString,值：[a-zA-Z0-9$]+$,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:searchString
+2018-07-26 14:51:03.044 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.044 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:replaceString
+2018-07-26 14:51:03.047 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:primaryKey,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.047 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableVirtualPrimaryKeyPlugin,值：,,plugin:org.mybatis.generator.plugins.VirtualPrimaryKeyPlugin   key:virtualKeyColumns
+2018-07-26 14:51:03.047 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:generateJPA,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:51:03.048 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useToStringFromRoot,值：false,,plugin:org.mybatis.generator.plugins.ToStringPlugin   key:useToStringFromRoot
+2018-07-26 14:51:03.048 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useEqualsHashCodeFromRoot,值：false,,plugin:org.mybatis.generator.plugins.EqualsHashCodePlugin   key:useEqualsHashCodeFromRoot
+2018-07-26 14:51:03.048 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableComment,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:51:03.048 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableMbgGenerated,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:51:03.048 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableCorrespondingTable,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:51:03.048 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:fileHeader,值：/**
+ * Created By MBG-GUI-EXTENSION https://github.com/spawpaw/mybatis-generator-gui-extension
+ * Description:
+ * ${tableComment}
+ *
+ * @author 
+ */,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 14:51:03.048 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_eviction,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:51:03.049 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_flushInterval,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:51:03.049 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_readOnly,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:51:03.049 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_size,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:51:03.049 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_type,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 14:51:03.049 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:scvxConfigYml,值：# 每项配置有以下四个属性：
+# template:    模板文件名
+# destDir:     目标文件夹
+# destPackage: 目标包
+# destFileName:目标文件名
+#
+# 支持如下变量：
+# ${basePackage}  在创建文件时该变量将替换为根包名
+# ${entityName}   在创建文件时该变量将替换为实体名
+templateConfig:
+
+  # REST-ful Controller
+  - template: java/restController.vm
+    destDir: src/main/java
+    destPackage: ${basePackage}.controller
+    destFileName: ${entityName}RestController.java
+
+  # 生成html表单
+  - template: html/index.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: index.html
+
+  # 生成html列表
+  - template: html/list.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: list.html
+,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 14:51:03.049 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.FluentBuilderMethodsPlugin
+2018-07-26 14:51:03.050 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.MapperAnnotationPlugin
+2018-07-26 14:51:03.050 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.ToStringPlugin
+2018-07-26 14:51:03.051 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.SerializablePlugin
+2018-07-26 14:51:03.051 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.CaseInsensitiveLikePlugin
+2018-07-26 14:51:03.051 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.EqualsHashCodePlugin
+2018-07-26 14:51:03.051 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.RenameExampleClassPlugin
+2018-07-26 15:03:10.024 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:projectDir,值：H:\blc\paas-iot\drools-engine,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.025 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:basePackage,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.025 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperDir,值：src/main/resources,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.025 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.025 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.025 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.025 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoObjName,值：UserMapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.025 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteColumn,值：IS_DELETE,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 15:03:10.026 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteValue,值：1,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 15:03:10.026 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteValue,值：0,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 15:03:10.026 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteConstName,值：DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 15:03:10.026 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteConstName,值：NOT_DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 15:03:10.026 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.026 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityPackage,值：com.blc.drools.model.fact,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.026 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityObjName,值：User,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.026 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleSearchString,值：[a-zA-Z0-9$]+$,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:searchString
+2018-07-26 15:03:10.027 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：Example,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.027 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：Example,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:replaceString
+2018-07-26 15:03:10.027 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:primaryKey,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.027 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableVirtualPrimaryKeyPlugin,值：,,plugin:org.mybatis.generator.plugins.VirtualPrimaryKeyPlugin   key:virtualKeyColumns
+2018-07-26 15:03:10.027 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:generateJPA,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 15:03:10.027 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useToStringFromRoot,值：false,,plugin:org.mybatis.generator.plugins.ToStringPlugin   key:useToStringFromRoot
+2018-07-26 15:03:10.027 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useEqualsHashCodeFromRoot,值：false,,plugin:org.mybatis.generator.plugins.EqualsHashCodePlugin   key:useEqualsHashCodeFromRoot
+2018-07-26 15:03:10.028 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableComment,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 15:03:10.028 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableMbgGenerated,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 15:03:10.028 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableCorrespondingTable,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 15:03:10.028 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:fileHeader,值：/**
+ * Created By MBG-GUI-EXTENSION https://github.com/spawpaw/mybatis-generator-gui-extension
+ * Description:
+ * ${tableComment}
+ *
+ * @author 
+ */,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 15:03:10.028 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_eviction,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 15:03:10.028 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_flushInterval,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 15:03:10.028 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_readOnly,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 15:03:10.029 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_size,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 15:03:10.029 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_type,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 15:03:10.029 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:scvxConfigYml,值：# 每项配置有以下四个属性：
+# template:    模板文件名
+# destDir:     目标文件夹
+# destPackage: 目标包
+# destFileName:目标文件名
+#
+# 支持如下变量：
+# ${basePackage}  在创建文件时该变量将替换为根包名
+# ${entityName}   在创建文件时该变量将替换为实体名
+templateConfig:
+
+  # REST-ful Controller
+  - template: java/restController.vm
+    destDir: src/main/java
+    destPackage: ${basePackage}.controller
+    destFileName: ${entityName}RestController.java
+
+  # 生成html表单
+  - template: html/index.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: index.html
+
+  # 生成html列表
+  - template: html/list.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: list.html
+,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 15:03:10.029 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.FluentBuilderMethodsPlugin
+2018-07-26 15:03:10.029 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.MapperAnnotationPlugin
+2018-07-26 15:03:10.029 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.ToStringPlugin
+2018-07-26 15:03:10.029 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.SerializablePlugin
+2018-07-26 15:03:10.029 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.CaseInsensitiveLikePlugin
+2018-07-26 15:03:10.030 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.EqualsHashCodePlugin
+2018-07-26 15:03:10.030 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.RenameExampleClassPlugin
+2018-07-26 17:10:26.439 [JavaFX Application Thread] INFO  DatabaseConfig.java->getConnection, line69: using connection url:jdbc:mysql://192.168.0.112:3306/db_blc_paas?useUnicode=true&useSSL=false&characterEncoding=utf8
+2018-07-26 17:10:32.604 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:projectDir,值：H:\blc\paas-iot\drools-engine,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.604 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:basePackage,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.604 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperDir,值：src/main/resources,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.604 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.605 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.605 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.605 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoObjName,值：BlcPaasIotUserMapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.605 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteColumn,值：IS_DELETE,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:10:32.605 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteValue,值：1,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:10:32.605 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteValue,值：0,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:10:32.606 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteConstName,值：DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:10:32.606 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteConstName,值：NOT_DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:10:32.606 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.606 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityPackage,值：com.blc.drools.beans,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.606 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityObjName,值：BlcPaasIotUser,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.606 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleSearchString,值：[a-zA-Z0-9$]+$,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:searchString
+2018-07-26 17:10:32.607 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.607 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：BlcPaasIotUserExample,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:replaceString
+2018-07-26 17:10:32.607 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:primaryKey,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.607 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableVirtualPrimaryKeyPlugin,值：,,plugin:org.mybatis.generator.plugins.VirtualPrimaryKeyPlugin   key:virtualKeyColumns
+2018-07-26 17:10:32.607 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:generateJPA,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:10:32.607 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useToStringFromRoot,值：false,,plugin:org.mybatis.generator.plugins.ToStringPlugin   key:useToStringFromRoot
+2018-07-26 17:10:32.608 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useEqualsHashCodeFromRoot,值：false,,plugin:org.mybatis.generator.plugins.EqualsHashCodePlugin   key:useEqualsHashCodeFromRoot
+2018-07-26 17:10:32.608 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableComment,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:10:32.608 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableMbgGenerated,值：true,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:10:32.608 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableCorrespondingTable,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:10:32.608 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:fileHeader,值：/**
+ * Created By MBG-GUI-EXTENSION https://github.com/spawpaw/mybatis-generator-gui-extension
+ * Description:
+ * ${tableComment}
+ *
+ * @author 
+ */,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:10:32.608 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_eviction,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:10:32.609 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_flushInterval,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:10:32.609 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_readOnly,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:10:32.609 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_size,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:10:32.610 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_type,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:10:32.610 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:scvxConfigYml,值：# 每项配置有以下四个属性：
+# template:    模板文件名
+# destDir:     目标文件夹
+# destPackage: 目标包
+# destFileName:目标文件名
+#
+# 支持如下变量：
+# ${basePackage}  在创建文件时该变量将替换为根包名
+# ${entityName}   在创建文件时该变量将替换为实体名
+templateConfig:
+
+  # REST-ful Controller
+  - template: java/restController.vm
+    destDir: src/main/java
+    destPackage: ${basePackage}.controller
+    destFileName: ${entityName}RestController.java
+
+  # 生成html表单
+  - template: html/index.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: index.html
+
+  # 生成html列表
+  - template: html/list.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: list.html
+,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:10:32.611 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.FluentBuilderMethodsPlugin
+2018-07-26 17:10:32.612 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.MapperAnnotationPlugin
+2018-07-26 17:10:32.612 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.ToStringPlugin
+2018-07-26 17:10:32.612 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.SerializablePlugin
+2018-07-26 17:10:32.612 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.CaseInsensitiveLikePlugin
+2018-07-26 17:10:32.612 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.EqualsHashCodePlugin
+2018-07-26 17:10:32.612 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.RenameExampleClassPlugin
+2018-07-26 17:13:45.371 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:projectDir,值：H:\blc\paas-iot\drools-engine,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.371 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:basePackage,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.371 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperDir,值：src/main/resources,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.371 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:mapperPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.371 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.371 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoPackage,值：com.blc.drools.mapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.372 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:daoObjName,值：UserMapper,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.372 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteColumn,值：IS_DELETE,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:13:45.372 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteValue,值：1,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:13:45.372 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteValue,值：0,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:13:45.372 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalDeleteConstName,值：DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:13:45.373 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:logicalUnDeleteConstName,值：NOT_DELETED,,plugin:com.itfsw.mybatis.generator.plugins.LogicalDeletePlugin   key:
+2018-07-26 17:13:45.373 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityDir,值：src/main/java,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.373 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityPackage,值：com.blc.drools.beans,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.373 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:entityObjName,值：User,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.373 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleSearchString,值：[a-zA-Z0-9$]+$,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:searchString
+2018-07-26 17:13:45.373 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：UserExample,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.373 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:exampleObjName,值：UserExample,,plugin:org.mybatis.generator.plugins.RenameExampleClassPlugin   key:replaceString
+2018-07-26 17:13:45.373 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:primaryKey,值：,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.374 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableVirtualPrimaryKeyPlugin,值：,,plugin:org.mybatis.generator.plugins.VirtualPrimaryKeyPlugin   key:virtualKeyColumns
+2018-07-26 17:13:45.374 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:generateJPA,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:13:45.374 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useToStringFromRoot,值：false,,plugin:org.mybatis.generator.plugins.ToStringPlugin   key:useToStringFromRoot
+2018-07-26 17:13:45.374 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:useEqualsHashCodeFromRoot,值：false,,plugin:org.mybatis.generator.plugins.EqualsHashCodePlugin   key:useEqualsHashCodeFromRoot
+2018-07-26 17:13:45.374 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableComment,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:13:45.374 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableMbgGenerated,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:13:45.374 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:enableCorrespondingTable,值：false,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:13:45.375 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:fileHeader,值：/**
+ * Created By huoxiong
+ * Description:
+ * ${tableComment}
+
+ * @author 
+ */,,plugin:com.spawpaw.mybatis.generator.gui.plugin.CommentPlugin   key:
+2018-07-26 17:13:45.375 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_eviction,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:13:45.375 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_flushInterval,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:13:45.375 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_readOnly,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:13:45.375 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_size,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:13:45.375 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:cache_type,值：,,plugin:org.mybatis.generator.plugins.CachePlugin   key:
+2018-07-26 17:13:45.375 [JavaFX Application Thread] INFO  MBGRunner.java->initPluginConfigs, line236: 配置:scvxConfigYml,值：# 每项配置有以下四个属性：
+# template:    模板文件名
+# destDir:     目标文件夹
+# destPackage: 目标包
+# destFileName:目标文件名
+#
+# 支持如下变量：
+# ${basePackage}  在创建文件时该变量将替换为根包名
+# ${entityName}   在创建文件时该变量将替换为实体名
+templateConfig:
+
+  # REST-ful Controller
+  - template: java/restController.vm
+    destDir: src/main/java
+    destPackage: ${basePackage}.controller
+    destFileName: ${entityName}RestController.java
+
+  # 生成html表单
+  - template: html/index.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: index.html
+
+  # 生成html列表
+  - template: html/list.vm
+    destDir: src/main/resources
+    destPackage: templates
+    destFileName: list.html
+,,plugin:com.spawpaw.mybatis.generator.gui.plugin.SCVXGeneratorPlugin   key:
+2018-07-26 17:13:45.375 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.FluentBuilderMethodsPlugin
+2018-07-26 17:13:45.376 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.MapperAnnotationPlugin
+2018-07-26 17:13:45.376 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.ToStringPlugin
+2018-07-26 17:13:45.376 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.SerializablePlugin
+2018-07-26 17:13:45.376 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.CaseInsensitiveLikePlugin
+2018-07-26 17:13:45.376 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.EqualsHashCodePlugin
+2018-07-26 17:13:45.376 [JavaFX Application Thread] INFO  MBGRunner.java->addPlugins, line255: 启用插件：org.mybatis.generator.plugins.RenameExampleClassPlugin
