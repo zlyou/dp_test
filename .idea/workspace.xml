@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="383fbff2-b90a-44b5-8bf7-38ba55f0fe1d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mybatis-generator-gui-extension-master/target/" />
@@ -150,7 +149,7 @@
     <property name="SearchEverywhereHistoryKey" value="peizhi&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555292751863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555293077372" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,15 +236,16 @@
       <workItem from="1553173763092" duration="613000" />
       <workItem from="1553323063348" duration="1262000" />
       <workItem from="1553329263246" duration="598000" />
-      <workItem from="1555290966247" duration="931000" />
+      <workItem from="1555290966247" duration="1612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12853000" />
+    <option name="totallyTimeSpent" value="13534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="23" width="1272" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2902439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
